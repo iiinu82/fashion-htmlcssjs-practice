@@ -5,7 +5,7 @@
 
 ## デモ（ライブプレビュー）
 
-
+https://fashion-htmlcssjs-practice.vercel.app/#area1
 
 ## 主な実装機能
 - **左右分割スクロール**（multiscroll.js） - 左右のセクションが独立して動く豪華な演出
